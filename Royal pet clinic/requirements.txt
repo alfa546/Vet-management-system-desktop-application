@@ -1,0 +1,14 @@
+# --- External Packages ---
+pyinstaller
+
+# --- Python Built-in Standard Libraries ---
+
+# This libraries are already build-in in python
+
+# tkinter
+# sqlite3
+# datetime
+# os
+# sys
+# base64
+# tempfile
