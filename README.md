@@ -42,15 +42,6 @@ pip install pyinstaller
 pyinstaller --onefile "royal_clinic_main.spec"
 ```
 
-**Screenshots**
-
-Main dashboard:
-
-![Main Dashboard](screenshots/main_screen.svg)
-
-Inventory manager:
-
-![Inventory Manager](screenshots/inventory_screen.svg)
 
 **Project layout**
 - `royal_clinic_main.py` — application entry and UI layout
